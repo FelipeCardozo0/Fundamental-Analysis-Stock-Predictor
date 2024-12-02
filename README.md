@@ -1,2 +1,2 @@
-# Stock_Forecast_Model
-Analyzes consumer and business credit history and financial metrics in CVS files to accept or deny loans. Computes a graph that predicts future credit history using the R Programming language
+# SP500 Piotroski Analyzer
+This project automates the analysis of all S&P 500 companies by calculating their Piotroski Score, a measure of financial health based on profitability, leverage, liquidity, and efficiency criteria. The system fetches financial data from Yahoo Finance, calculates the score using predefined metrics, and visualizes the results for insights into top-performing and underperforming companies. It is designed to assist investors in identifying fundamentally strong or weak stocks.
